@@ -1,0 +1,26 @@
+{
+    "@@locale": "en",
+    "lang": "En",
+    "appName": "Inteagle",
+    "discoverTitle": "Devices Discover",
+    "deviceDiscover": "Discover",
+    "searchDevice": "Search",
+    "addDevice": "Add",
+    "startScan": "Start Scan",
+    "stopScan": "Stop scanning",
+    "noDevice": "No device found",
+    "scanning": "Scanning...",
+    "clickToScanning": "Click the search button to start scanning",
+    "discoverFound": "Found {count} devices",
+    "@discoverFound": {
+        "description": "discoverFound message",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "retry": "Retry",
+    "unknown": "Unknown"
+}

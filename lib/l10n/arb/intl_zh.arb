@@ -1,0 +1,26 @@
+{
+    "@@locale": "zh",
+    "lang": "中",
+    "appName": "鹰腾微视",
+    "discoverTitle": "视觉位移计设备发现",
+    "deviceDiscover": "设备发现",
+    "searchDevice": "搜索设备",
+    "addDevice": "添加设备",
+    "startScan": "开始扫描",
+    "stopScan": "停止扫描",
+    "noDevice": "未发现设备",
+    "scanning": "正在扫描...",
+    "clickToScanning": "点击搜索按钮开始扫描",
+    "discoverFound": "发现 {count} 个设备",
+    "@discoverFound": {
+        "description": "discoverFound message",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "retry": "重试",
+    "unknown": "未知状态"
+}
